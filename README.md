@@ -1,5 +1,11 @@
 # Employee Dataset Preprocessing
 
-# Objective:
+# Overview:
 ____
-The main objective of this project is to design and implement a robust data preprocessing system that addresses common challenges such as missing values, outliers, inconsistent formatting, and noise. By performing effective data preprocessing, the project aims to enhance the quality, reliability, and usefulness of the data for machine learning.
+The goal of this project is to design and implement a robust data preprocessing system that addresses challenges such as:
+
+* Missing values
+* Outliers
+* Inconsistent formatting
+* Categorical variable encoding
+* By performing effective preprocessing, we aim to enhance the data quality for further machine learning analysis.
