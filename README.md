@@ -41,5 +41,5 @@ ____
 *Identified and removed duplicate rows to ensure data quality.
 
 **4. Handling Outliers**
-Used visualizations such as box plots to identify outliers in numerical columns (e.g., salary, age).
-Treated the outliers using IQR method as needed.
+* Used visualizations such as box plots to identify outliers in numerical columns (e.g., salary, age).
+* Treated the outliers using IQR method as needed.
