@@ -38,7 +38,7 @@ ____
 * Replaced missing values in the Company and Place columns with mode value.
   
 **3. Removing Duplicate Rows**
-*Identified and removed duplicate rows to ensure data quality.
+* Identified and removed duplicate rows to ensure data quality.
 
 **4. Handling Outliers**
 * Used visualizations such as box plots to identify outliers in numerical columns (e.g., salary, age).
