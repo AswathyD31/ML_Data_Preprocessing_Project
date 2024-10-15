@@ -58,7 +58,7 @@ ____
 * After preprocessing, the dataset is now clean, properly formatted, and ready for machine learning algorithms to build predictive models.
 
 ## Libraries
-* To run the preprocessing steps, you will need the following libraries:
+ To run the preprocessing steps, you will need the following libraries:
 * Python
 * Pandas
 * NumPy
@@ -67,5 +67,5 @@ ____
 * Scikit-learn
 
 ## Visualization
-* Scatter Plot: Relationship Between Age and Salary.
-* Bar Chart: Distribution of Employees from Different Places.
+* **Scatter Plot:** Relationship Between Age and Salary.
+* **Bar Chart:** Distribution of Employees from Different Places.
