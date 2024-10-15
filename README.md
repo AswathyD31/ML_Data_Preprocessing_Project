@@ -28,7 +28,7 @@ The dataset contains the following columns:
 
 # Preprocessing Steps
 ____
-**1. Exploratory Data Analysis (EDA)**
+## 1. Exploratory Data Analysis (EDA)
 * Examined the dataset to list down the unique values in each feature and calculated their lengths.
 * Renamed the columns for better readability.
  
